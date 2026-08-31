@@ -1,0 +1,13 @@
+{
+  "name": "Daily Profit-MM",
+  "short_name": "Daily Profit",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/Daily Profit-MM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
